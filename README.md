@@ -9,3 +9,6 @@ Certainly! The line "Basic table which shows Employee salary using Node.js" can 
 4.** Implementation:** To create such a table using Node.js, you would need to write server-side code to fetch employee data, structure it in a tabular format, and send it as part of a web page's response. Additionally, you may use front-end technologies like HTML, CSS, and possibly JavaScript to render and style the table on the client-side.
 
 5. **Purpose:**The purpose of creating this table using Node.js could be for various reasons, such as providing an employee directory, payroll management, or simply for informative purposes. Node.js is chosen because it's well-suited for building scalable and efficient web applications and can handle server-side tasks effectively.
+
+
+![image](https://github.com/Shobhit67/Employee/assets/74268536/3993c657-435b-4720-bb81-d1d8e358911d)
